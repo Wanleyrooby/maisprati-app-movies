@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-const API_KEY = "562b8c4"; // Cadastre-se em http://www.omdbapi.com/apikey.aspx
+const API_KEY = "sua API_KEY"; // Cadastre-se em http://www.omdbapi.com/apikey.aspx
 
 // Componente principal
 export default function App() {
